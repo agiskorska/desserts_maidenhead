@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Doris Day';
+  src: url('./fonts/DorisDay.woff2') format('woff2'),
+      url('./fonts/DorisDay.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fonts */
+
+$menu: 'Doris Day';
+$menu-item: 'New Tegomin', serif;
+$options: 'RocknRoll One', sans-serif;
